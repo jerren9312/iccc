@@ -14,20 +14,20 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 {%
   include button.html
   type="email"
-  text="jane@smith.com"
-  link="jane@smith.com"
+  text="Email us"
+  link="jielun.zhang@und.edu"
 %}
 {%
   include button.html
   type="phone"
-  text="(555) 867-5309"
-  link="+1-555-867-5309"
+  text="(701) 777-4986"
+  link="+1-701-777-4986"
 %}
 {%
   include button.html
   type="address"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps"
+  link="[https://www.google.com/maps](https://www.google.com/maps/place/University+of+North+Dakota:+Tech+Accelerator/@47.919118,-97.0929666,17z/data=!3m1!4b1!4m6!3m5!1s0x52c6810c8212278f:0x48ffc2c89e554ea8!8m2!3d47.9191144!4d-97.0903917!16s%2Fg%2F11cp7jbh05?entry=ttu)"
 %}
 
 {% include section.html %}
@@ -37,7 +37,7 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 {%
   include figure.html
   image="images/photo.jpg"
-  caption="Lorem ipsum"
+  caption="Lab location"
 %}
 
 {% endcapture %}
@@ -47,7 +47,7 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 {%
   include figure.html
   image="images/photo.jpg"
-  caption="Lorem ipsum"
+  caption="UND Tech Accelerator"
 %}
 
 {% endcapture %}
