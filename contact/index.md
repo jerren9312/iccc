@@ -27,7 +27,7 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
   include button.html
   type="address"
   tooltip="Our location on Google Maps for easy navigation"
-  link="[https://www.google.com/maps](https://www.google.com/maps/place/University+of+North+Dakota:+Tech+Accelerator/@47.919118,-97.0929666,17z/data=!3m1!4b1!4m6!3m5!1s0x52c6810c8212278f:0x48ffc2c89e554ea8!8m2!3d47.9191144!4d-97.0903917!16s%2Fg%2F11cp7jbh05?entry=ttu)"
+  link="https://www.google.com/maps/place/University+of+North+Dakota:+Tech+Accelerator/@47.919118,-97.0929666,17z/data=!3m1!4b1!4m6!3m5!1s0x52c6810c8212278f:0x48ffc2c89e554ea8!8m2!3d47.9191144!4d-97.0903917!16s%2Fg%2F11cp7jbh05?entry=ttu"
 %}
 
 {% include section.html %}
