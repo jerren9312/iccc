@@ -1,8 +1,8 @@
 ---
-title: Hire
+title: Join ICCC
 nav:
   order: 5
-  tooltip: Musings and miscellany
+  tooltip: Welcome
 ---
 
 # {% include icon.html icon="fa-solid fa-feather-pointed" %}Hire
