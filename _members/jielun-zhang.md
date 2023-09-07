@@ -1,5 +1,5 @@
 ---
-name: Jielun Zhang
+name: Jielun Zhang, Ph.D.
 image: images/1662116581814.jpeg
 role: pi
 links:
