@@ -36,8 +36,8 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lab location"
+  image="images/und-tech.jpeg"
+  caption="UND Tech Accelerator"
 %}
 
 {% endcapture %}
@@ -46,8 +46,8 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="UND Tech Accelerator"
+  image="images/und-tech-add.png"
+  caption="Tech Accelerator on map"
 %}
 
 {% endcapture %}
