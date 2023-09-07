@@ -11,11 +11,6 @@ nav:
 
 {% include section.html %}
 
-## Highlighted
-
-{% include citation.html lookup="Sustaining the High Performance of AI-Based Network Traffic Classification Models" style="rich" %}
-
-{% include section.html %}
 
 ## All
 
@@ -24,3 +19,11 @@ nav:
 {% include search-info.html %}
 
 {% include list.html data="citations" component="citation" style="rich" %}
+
+{% include section.html %}
+
+## Featured
+
+{% include citation.html lookup="Sustaining the High Performance of AI-Based Network Traffic Classification Models" style="rich" %}
+
+
