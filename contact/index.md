@@ -62,5 +62,13 @@ Tech Accelerator
 Grand Forks ND 58202
 {% endcapture %}
 
+{% capture col2 %}
+
+{% endcapture %}
+
+{% capture col3 %}
+
+{% endcapture %}
+
 
 {% include cols.html col1=col1 col2=col2 col3=col3 %}
