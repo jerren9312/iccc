@@ -23,7 +23,12 @@ Our mission at ICCC Lab is deeply rooted in the pursuit of excellence to address
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Our research mainly focus (but not limited) on:
+- Networking analytics
+- Network security
+- Cybersecurity
+- Internet-of-things
+
 
 {%
   include button.html
@@ -44,39 +49,26 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   text=text
 %}
 
-{% capture text %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-{%
-  include button.html
-  link="projects"
-  text="Browse our projects"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="projects"
-  title="Our Projects"
-  flip=true
-  style="bare"
-  text=text
-%}
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We are currently looking for self-motivated students to work with me on research projects in networking analytics, cybersecurity, artificial intelligence, etc.
+- Graduate Assistantship for Ph.D. and research Master students  (based on availability)
+- Research Experience for professional Master students/Bachelor students
+Prospective students can use the "Prospective students" link below.
 
 {%
   include button.html
   link="team"
-  text="Meet our team"
+  text="Our lab members"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+{%
+  include button.html
+  link="team"
+  text="Prospective students"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
