@@ -12,10 +12,10 @@ Our mission at ICCC Lab is deeply rooted in the pursuit of excellence to address
 {% capture text %}
 
 Our research mainly focus (but not limited) on:
---Networking analytics
---Network Security
---Cybersecurity
---Internet-of-Things
+Networking analytics
+Network Security
+Cybersecurity
+Internet-of-Things
 
 {%
   include button.html
@@ -40,8 +40,8 @@ Our research mainly focus (but not limited) on:
 {% capture text %}
 
 We are currently looking for self-motivated students to work with me on research projects in networking analytics, cybersecurity, artificial intelligence, etc.
-- Graduate Assistantship for Ph.D. and research Master students  (based on availability)
-- Research Experience for professional Master students/Bachelor students
+- Graduate Assistantship for PhD/research Master students (if available)
+- Research Experience for professional Master/Bachelor students
 Prospective students can use the "Prospective students" link below.
 
 {%
