@@ -1,7 +1,7 @@
 ---
 name: Mohammad Ali
 image: images/photo.jpg
-role: ms
+role: phd
 group: alum
 links:
   github: 0xalim
