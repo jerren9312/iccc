@@ -2,9 +2,6 @@
 name: Jielun Zhang
 image: images/1662116581814.jpeg
 role: pi
-aliases:
-  - J. Zhang
-  - J Zhang
 links:
   home-page: https://jielunzhang.com
   orcid: 0000-0002-2113-2104
