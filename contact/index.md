@@ -36,7 +36,7 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {%
   include figure.html
-  image="images/und-tech.jpeg"
+  image="images/und-tech1.png"
   caption="UND Tech Accelerator"
 %}
 
