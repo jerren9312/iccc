@@ -53,7 +53,7 @@ Our mission at ICCC Lab is deeply rooted in the pursuit of excellence to address
 %}
 {%
   include button.html
-  link="team"
+  link="hire"
   text="Prospective students"
   icon="fa-solid fa-arrow-right"
   flip=true
