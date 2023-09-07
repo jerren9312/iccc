@@ -1,6 +1,6 @@
 ---
 name: Jielun Zhang
-image: images/photo.jpg
+image: images/1662116581814.jpeg
 role: pi
 aliases:
   - J. Zhang
