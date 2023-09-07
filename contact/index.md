@@ -57,8 +57,8 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 {% include section.html dark=true %}
 
 {% capture col1 %}
-Tech Accelerator 
-4201 James Ray Dr
+Tech Accelerator__
+4201 James Ray Dr__
 Grand Forks ND 58202
 {% endcapture %}
 
