@@ -9,10 +9,11 @@ nav:
 
 
 
+{% include section.html %}
 {% include list.html data="members" component="portrait" filters="role: pi" %}
 {% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}
 
-{% include section.html background="images/background.jpg" dark=true %}
+{% include section.html%}
 
 Photos of lab activities will be posted below.
 {% include section.html %}
