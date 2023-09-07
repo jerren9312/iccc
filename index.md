@@ -38,10 +38,10 @@ Our mission at ICCC Lab is deeply rooted in the pursuit of excellence to address
 
 {% capture text %}
 
-We are currently looking for self-motivated students to work with me on research projects in networking analytics, cybersecurity, artificial intelligence, etc.
-- Graduate Assistantship for PhD/research Master students (if available)
-- Research Experience for professional Master/Bachelor students
-Prospective students can use the "Prospective students" link below.
+- We are currently looking for self-motivated students to work with me on research projects in networking analytics, cybersecurity, artificial intelligence, etc.
+  - Graduate Assistantship for PhD or research Master students (if available)
+  - Research Experience for professional Master or Bachelor students
+- Prospective students can use the "Prospective students" link below.
 
 {%
   include button.html
