@@ -57,21 +57,10 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 {% include section.html dark=true %}
 
 {% capture col1 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
+Tech Accelerator 
+4201 James Ray Dr
+Grand Forks ND 58202
 {% endcapture %}
 
-{% capture col2 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% capture col3 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
 
 {% include cols.html col1=col1 col2=col2 col3=col3 %}
