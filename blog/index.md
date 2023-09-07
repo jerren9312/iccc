@@ -7,6 +7,8 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-feather-pointed" %}Blog
 
-To be published.
+{% include section.html %}
+
+{% include list.html data="posts" component="post-excerpt" %}
 
 
