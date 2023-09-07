@@ -16,6 +16,7 @@ nav:
 {% include section.html %}
 
 # {% include icon.html icon="fa-solid fa-users" %}External collaborators
+{% include section.html %}
 {% include list.html data="members" component="portrait" filters="role: ec" %}
 
 {% include section.html%}
