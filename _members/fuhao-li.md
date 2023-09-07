@@ -4,7 +4,10 @@ image: images/fuhao-li1.png
 role: ec
 group: alum
 links:
-  github:
+
+  google-scholar: SQ3q9tcAAAAJ
+  orcid: 0000-0001-8076-2221
+  linkedin: fuhao-li
   email: fuhao.li@tiposi.com
 ---
 
