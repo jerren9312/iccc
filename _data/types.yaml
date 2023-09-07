@@ -13,7 +13,11 @@ postdoc:
 phd:
   icon: fa-solid fa-graduation-cap
   description: Ph.D. Student
-
+  
+ec:
+  icon: icon: fa-solid fa-code
+  description: Collaborator
+  
 ms:
   icon: fa-solid fa-user-graduate
   description: Master Student
