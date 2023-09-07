@@ -18,7 +18,7 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {% include section.html background="images/background.jpg" dark=true %}
 
-This is the page for introducing our lab members.
+Photos of lab activities will be posted below.
 {% include section.html %}
 
 {% capture content %}
