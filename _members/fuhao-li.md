@@ -1,6 +1,6 @@
 ---
 name: Fuhao Li, Ph.D.
-image: images/fuhao-li.png
+image: images/fuhao-li1.png
 role: ec
 group: alum
 links:
