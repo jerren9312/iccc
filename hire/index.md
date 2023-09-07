@@ -1,7 +1,7 @@
 ---
 title: Join ICCC
 nav:
-  order: 5
+  order: 6
   tooltip: Welcome
 ---
 
