@@ -13,6 +13,7 @@ nav:
 {% include list.html data="members" component="portrait" filters="role: pi" %}
 {% include list.html data="members" component="portrait" filters="role: ms" %}
 
+{% include section.html %}
 
 # {% include icon.html icon="fa-solid fa-users" %}External collaborators
 {% include list.html data="members" component="portrait" filters="role: ec" %}
