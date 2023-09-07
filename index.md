@@ -11,11 +11,11 @@ Our mission at ICCC Lab is deeply rooted in the pursuit of excellence to address
 
 {% capture text %}
 Our research mainly focus (but not limited) on:
-- [x]Networking analytics
-- [x]Network Security
-- [x]Cybersecurity
-- [x]Internet-of-Things
-.
+- Networking analytics
+- Network Security
+- Cybersecurity
+- Internet-of-Things
+- Internet-of-Things
 
 {%
   include button.html
