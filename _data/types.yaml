@@ -15,7 +15,7 @@ phd:
   description: Ph.D. Student
   
 ec:
-  icon: icon: fa-solid fa-code
+  icon: fa-solid fa-code
   description: Collaborator
   
 ms:
