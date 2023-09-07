@@ -4,7 +4,7 @@
 # Mission of ICCC Lab
 Our mission at ICCC Lab is deeply rooted in the pursuit of excellence to address challenges in our digital society. We are committed to pioneering cutting-edge solutions in cybersecurity for protecting sensitive data and combating emerging cyber threats. We aim to optimize the performance and resilience of modern computer networks to ensure their reliability, throughput, and quality of user experience.
 
-{%
+<!---{%
   include button.html
   type="docs"
   text="Details"
@@ -15,7 +15,7 @@ Our mission at ICCC Lab is deeply rooted in the pursuit of excellence to address
   type="docs"
   text="More"
   link="https://labiccc.org"
-%}
+%}---!>
 
 {% include section.html %}
 
