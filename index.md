@@ -27,7 +27,7 @@ Our research mainly focus (but not limited) on:
 - Networking analytics
 - Network security
 - Cybersecurity
-- Internet-of-things
+- Internet-of-Things
 
 
 {%
