@@ -29,7 +29,7 @@ Our mission at ICCC Lab is deeply rooted in the pursuit of excellence to address
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/research-info.png"
   link="research"
   title="Our Research"
   text=text
@@ -64,8 +64,8 @@ Our mission at ICCC Lab is deeply rooted in the pursuit of excellence to address
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/team-temp.png"
   link="team"
-  title="Our Team"
+  title="Our Lab Members"
   text=text
 %}
