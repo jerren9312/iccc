@@ -25,7 +25,7 @@ Our mission at ICCC Lab is deeply rooted in the pursuit of excellence to address
 {%
   include feature.html
   image="images/event2023/IMG_4328.jpg"
-  link="_posts/2023-11-07-post-1"
+  link="https://labiccc.org/2023/11/07/post-1"
   title="Lab News"
   text=text
 %}
