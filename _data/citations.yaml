@@ -1,1 +1,170 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
+
+- id: doi:10.1109/TNET.2022.3203227
+  title: Sustaining the High Performance of AI-Based Network Traffic Classification
+    Models
+  authors:
+  - Jielun Zhang
+  - Fuhao Li
+  - Feng Ye
+  publisher: IEEE/ACM Transactions on Networking
+  date: '2023-04-01'
+  link: https://doi.org/gspk5r
+  orcid: 0000-0002-2113-2104
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.23919/JCC.2022.03.015
+  title: Network traffic clustering with QoS-awareness
+  authors:
+  - Jielun Zhang
+  - Fuhao Li
+  - Feng Ye
+  publisher: China Communications
+  date: '2022-03-01'
+  link: https://doi.org/gspk5t
+  orcid: 0000-0002-2113-2104
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/MWC.006.2200097
+  title: Seamless Wireless Communication Platform for Internet of Things Applications
+  authors:
+  - Venkataramani Kumar
+  - Jiahui Yu
+  - Fuhao Li
+  - Jielun Zhang
+  - Feng Ye
+  - Sanjeevi Karri
+  - Guru Subramanyam
+  publisher: IEEE Wireless Communications
+  date: '2022-01-01'
+  link: https://doi.org/gspk5v
+  orcid: 0000-0002-2113-2104
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/NAECON49338.2021.9696420
+  title: A Machine Learning Approach to Modulation Detection in Wireless Communications
+  authors:
+  - Venkataramani Kumar
+  - Fuhao Li
+  - Jielun Zhang
+  - Feng Ye
+  - Guru Subramanyam
+  publisher: NAECON 2021 - IEEE National Aerospace and Electronics Conference
+  date: '2021-08-16'
+  link: https://doi.org/gspk5w
+  orcid: 0000-0002-2113-2104
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ICC42927.2021.9500976
+  title: A Real Application Enabled Traffic Generator for Networking AI Model Development
+  authors:
+  - Khalil Alsulami
+  - Jielun Zhang
+  - Feng Ye
+  publisher: ICC 2021 - IEEE International Conference on Communications
+  date: '2021-06-01'
+  link: https://doi.org/grbhqg
+  orcid: 0000-0002-2113-2104
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/GLOBECOM46510.2021.9685616
+  title: Improvement on a Traffic Data Generator for Networking AI Algorithm Development
+  authors:
+  - Khalil Alsulami
+  - Jielun Zhang
+  - Feng Ye
+  publisher: 2021 IEEE Global Communications Conference (GLOBECOM)
+  date: '2021-12-01'
+  link: https://doi.org/grbhqh
+  orcid: 0000-0002-2113-2104
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ICC40277.2020.9149402
+  title: An Ensemble-based Network Intrusion Detection Scheme with Bayesian Deep Learning
+  authors:
+  - Jielun Zhang
+  - Fuhao Li
+  - Feng Ye
+  publisher: ICC 2020 - 2020 IEEE International Conference on Communications (ICC)
+  date: '2020-06-01'
+  link: https://doi.org/grbt48
+  orcid: 0000-0002-2113-2104
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/INFOCOM41043.2020.9155292
+  title: Autonomous Unknown-Application Filtering and Labeling for DL-based Traffic
+    Classifier Update
+  authors:
+  - Jielun Zhang
+  - Fuhao Li
+  - Feng Ye
+  - Hongyu Wu
+  publisher: IEEE INFOCOM 2020 - IEEE Conference on Computer Communications
+  date: '2020-07-01'
+  link: https://doi.org/ghkk7x
+  orcid: 0000-0002-2113-2104
+  plugin: orcid.py
+  file: orcid.yaml
+- id: eid:2-s2.0-85093999948
+  title: Autonomous unknown-application filtering and labeling for DL-based traffic
+    classifier update
+  publisher: arXiv
+  date: '2023-08-29'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-85093999948&partnerID=MN8TOARS
+  orcid: 0000-0002-2113-2104
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/MNET.001.1900513
+  title: Intelligent and Application-Aware Network Traffic Prediction in Smart Access
+    Gateways
+  authors:
+  - Jielun Zhang
+  - Feng Ye
+  - Yi Qian
+  publisher: IEEE Network
+  date: '2020-05-01'
+  link: https://doi.org/gspk5x
+  orcid: 0000-0002-2113-2104
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ISC2.2018.8656854
+  title: A Distributed Network QoE Measurement Framework for Smart Networks in Smart
+    Cities
+  authors:
+  - Jielun Zhang
+  - Feng Ye
+  - Yi Qian
+  publisher: 2018 IEEE International Smart Cities Conference (ISC2)
+  date: '2018-09-01'
+  link: https://doi.org/gspk5z
+  orcid: 0000-0002-2113-2104
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-030-22971-9_23
+  title: A UAV Based Multi-object Detection Scheme to Enhance Road Condition Monitoring
+    and Control for Future Smart Transportation
+  authors:
+  - Jian Yang
+  - Jielun Zhang
+  - Feng Ye
+  - Xiaohui Cheng
+  publisher: Lecture Notes of the Institute for Computer Sciences, Social Informatics
+    and Telecommunications Engineering
+  date: '2019-01-01'
+  link: https://doi.org/gspk52
+  orcid: 0000-0002-2113-2104
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/GLOBECOM38437.2019.9014036
+  title: Autonomous Model Update Scheme for Deep Learning Based Network Traffic Classifiers
+  authors:
+  - Jielun Zhang
+  - Fuhao Li
+  - Hongyu Wu
+  - Feng Ye
+  publisher: 2019 IEEE Global Communications Conference (GLOBECOM)
+  date: '2019-12-01'
+  link: https://doi.org/gspk53
+  orcid: 0000-0002-2113-2104
+  plugin: orcid.py
+  file: orcid.yaml
