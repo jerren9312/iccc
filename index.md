@@ -8,6 +8,28 @@ Our mission at ICCC Lab is deeply rooted in the pursuit of excellence to address
 {% include section.html %}
 
 ## Highlights
+{% capture text %}
+- Mohammad Ali won the 1st prize (Master student group) in the ChatGPT post contest in the 3rd Annual Hybrid Cybersecurity Awareness and Research Symposium
+
+{%
+  include button.html
+  link="blog"
+  text="More News"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/event2023/IMG_4328.jpg"
+  link="_posts/2023-11-07-post-1"
+  title="Lab News"
+  text=text
+%}
+
 
 {% capture text %}
 - Our research mainly focus (but not limited) on:
