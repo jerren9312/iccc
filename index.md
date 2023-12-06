@@ -10,6 +10,7 @@ Our mission at ICCC Lab is deeply rooted in the pursuit of excellence to address
 ## Highlights
 {% capture text %}
 - Mohammad Ali won the 1st prize (Master student group) in the ChatGPT post contest in the 3rd Annual Hybrid Cybersecurity Awareness and Research Symposium
+- Dr. Jielun Zhang received the Early Career Scholars award from UND VPRED!
 
 {%
   include button.html
